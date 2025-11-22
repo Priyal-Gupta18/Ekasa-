@@ -33,7 +33,7 @@ body{
     background-color: rgb(184, 113, 43);
     position: absolute;
     top: 70%;
-    left: 49%;
+    left: 40%;
     height: 8%;
     width: 17%;
     font-size: 100%;
@@ -389,3 +389,4 @@ footer .line {
       height:auto;
    }
 }
+
